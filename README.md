@@ -1,7 +1,7 @@
 # Hi people's! 
 
--🖥️ Atualmente estudando front-end
-
+- Estou estudando as principais ferramentas de Front-end: HTML, CSS, Java Script e typescript;
+- 👩🏾‍🤝‍👩🏻Procuro por colaborar em criação de sites
 -🎮 Entusiasta sobre desenvolvimento de games
 
 
