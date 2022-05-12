@@ -2,8 +2,11 @@
 
 - Estou estudando as principais ferramentas de Front-end: HTML, CSS, Java Script e typescript;
 - 👩🏾‍🤝‍👩🏻Procuro por colaborar em criação de sites
--🎮 Entusiasta sobre desenvolvimento de games
-
+- 🎮 Entusiasta sobre desenvolvimento de games
+- 📚 Estudando no momento Javascript.
+- 📟 Atualmente faço projetos focados no front-end.
+- 🎨 Habilidades com design feitos no figma e prototipagem, Ux/Ui.
+- 🎨 Habilidades com design feitos e manipulação de imagem no Photoshop.
 
 <div align="center">
   <a href="https://github.com/nathycabral">
