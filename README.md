@@ -1,4 +1,4 @@
-# Hi people's! 
+<img align = "center" src = "https://i.imgur.com/kPjGg76.png">
 
 - Estou estudando as principais ferramentas de Front-end: HTML, CSS, Java Script e typescript;
 - 👩🏾‍🤝‍👩🏻Procuro por colaborar em criação de sites
