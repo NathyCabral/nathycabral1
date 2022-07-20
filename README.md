@@ -13,11 +13,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathycabral&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/><br>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathycabral&layout=compact&langs_count=7&theme=aura"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nathy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nathy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="Nathy-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/830939626897408031/957362968717316116/338224_egx27jK3.png?width=513&height=513">
+ <div style="display: inline_block"><br>
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
 </div>
+
  
 
  ##
