@@ -1,6 +1,6 @@
 <img align = "center" src = "https://i.imgur.com/kPjGg76.png">
 
-- Estou estudando as principais ferramentas de Front-end: HTML, CSS, Java Script e typescript;
+- Estou estudando as principais ferramentas de Front-end: HTML, CSS, Java Script e typescript; Dev-Frontend pronta para a missão!
 - 👩🏾‍🤝‍👩🏻Procuro por colaborar em criação de sites e games indie! 
 - 🎮 Entusiasta sobre desenvolvimento de games.
 - 📚 Estudando C# e Python.
