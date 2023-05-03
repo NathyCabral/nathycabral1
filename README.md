@@ -24,6 +24,7 @@
 
 </div>
 
+ <div><img align="center" alt="Unity" height="150" width="340" src="https://www.codewars.com/users/NathyCabral/badges/large"></div>
  
 
  ##
