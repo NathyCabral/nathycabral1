@@ -1,10 +1,11 @@
 <img align = "center" src = "https://i.imgur.com/kPjGg76.png">
 
-- Estou estudando as principais ferramentas de Front-end: HTML, CSS, Java Script e typescript; Dev-Frontend pronta para a missão!
-- 👩🏾‍🤝‍👩🏻Procuro por colaborar em criação de sites e games indie! 
-- 🎮 Entusiasta sobre desenvolvimento de games.
-- 📚 Estudando C# e Python.
-- 📟 Desenvolvendo os próprios games indie.
+###  Olá, eu sou a Nathy Cabral
+
+- :mortar_board: Formada em Frontend pela [{Reprograma}](https://reprograma.com.br/ "{Reprograma}") 
+- 👩 Faço colaboração em criação de sites e games indie! 
+- 🎮 Desenvolvedora de jogos Unity.
+- 📚 Estudando e brigando com C# e Python..
 - 🎨 Habilidades com design feitos no figma e prototipagem, Ux/Ui.
 - 🎨 Habilidades com design feitos e manipulação de imagem no Photoshop.
 
