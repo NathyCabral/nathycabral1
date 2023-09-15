@@ -1,13 +1,16 @@
 <img align = "center" src = "https://i.imgur.com/kPjGg76.png">
 
-###  Olá, eu sou a Nathy Cabral
+# Olá, eu sou a Nathy Cabral! 👋
 
-- :mortar_board: Formada em Frontend pela [{Reprograma}](https://reprograma.com.br/ "{Reprograma}") 
-- 👩 Faço colaboração em criação de sites e games indie! 
-- 🎮 Desenvolvedora de jogos Unity.
-- 📚 Estudando e brigando com C# e Python..
-- 🎨 Habilidades com design feitos no figma e prototipagem, Ux/Ui.
-- 🎨 Habilidades com design feitos e manipulação de imagem no Photoshop.
+- 🎓 Sou formada em Frontend pela {Reprograma}.
+- 🎮 Sou uma entusiasta curiosa no mundo do desenvolvimento de jogos indie.
+- 📚 Estou constantemente estudando e aprimorando minhas habilidades em Javascript e Python.
+- 🎨 Tenho habilidades em design, criação de protótipos e experiência do usuário (UX/UI) no Figma.
+- 🖌️ Também sou proficienta em design de páginas usando apenas HTML e CSS.
+
+Seja bem-vindo ao meu perfil, onde compartilho minha jornada e projetos na área de desenvolvimento e design!
+
+
 
  <div align="center">
   <a href="https://github.com/nathycabral">
