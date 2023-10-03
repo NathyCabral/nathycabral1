@@ -6,7 +6,7 @@
 - 🎮 Sou uma entusiasta curiosa no mundo do desenvolvimento de jogos indie.
 - 📚 Estou constantemente estudando e aprimorando minhas habilidades em Javascript e Python.
 - 🎨 Tenho habilidades em design, criação de protótipos e experiência do usuário (UX/UI) no Figma.
-- 🖌️ Também sou proficienta em design de páginas usando apenas HTML e CSS.
+- 🖌️ Também sou proficiente em design de páginas usando apenas HTML e CSS.
 
 Seja bem-vindo ao meu perfil, onde compartilho minha jornada e projetos na área de desenvolvimento e design!
 
